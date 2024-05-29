@@ -1,0 +1,3 @@
+com\inn\limit_micoservice\beans\Limits.class
+com\inn\limit_micoservice\controller\LimitController.class
+com\inn\limit_micoservice\configuration\Configuration.class
